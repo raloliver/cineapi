@@ -5,6 +5,7 @@ namespace CineApi.Models;
 public class Movie
 {
     [Required(ErrorMessage = "A movie must have a title!")]
+    [StringLength(30, ErrorMessage ="A movies max length is 30 chars!")]
     public string Title { get; set; }
     [Required(ErrorMessage = "A movie must have a genre!")]
     [MaxLength(50, ErrorMessage = "The genre max length is 50 chars!")]
