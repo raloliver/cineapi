@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cprojects\\cineapi\\CineApi\\CineApi\\CineApi.csproj": {}
+    "C:\\projects\\raloliver\\cineapi\\CineApi\\CineApi.csproj": {}
   },
   "projects": {
-    "C:\\cprojects\\cineapi\\CineApi\\CineApi\\CineApi.csproj": {
+    "C:\\projects\\raloliver\\cineapi\\CineApi\\CineApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cprojects\\cineapi\\CineApi\\CineApi\\CineApi.csproj",
+        "projectUniqueName": "C:\\projects\\raloliver\\cineapi\\CineApi\\CineApi.csproj",
         "projectName": "CineApi",
-        "projectPath": "C:\\cprojects\\cineapi\\CineApi\\CineApi\\CineApi.csproj",
-        "packagesPath": "C:\\Users\\Israel Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\cprojects\\cineapi\\CineApi\\CineApi\\obj\\",
+        "projectPath": "C:\\projects\\raloliver\\cineapi\\CineApi\\CineApi.csproj",
+        "packagesPath": "C:\\Users\\raloliver\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\raloliver\\cineapi\\CineApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Israel Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\raloliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
